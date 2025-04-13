@@ -1,2 +1,2 @@
-# InveteDate
-InveteDate
+# InviteDate
+InviteDate
